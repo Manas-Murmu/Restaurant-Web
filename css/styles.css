@@ -58,3 +58,16 @@ input[type="radio"] {
   position: absolute;
   bottom: 0px;
 }
+
+.modal-header {
+  background-color: #512da8;
+}
+.modal-title {
+  color: floralwhite;
+}
+.close {
+  color: floralwhite;
+}
+.modal-body {
+  background-color: #d1c4e9;
+}
